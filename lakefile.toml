@@ -1,0 +1,10 @@
+name = "NextPP"
+version = "0.1.0"
+defaultTargets = ["nextpp"]
+
+[[lean_lib]]
+name = "NextPP"
+
+[[lean_exe]]
+name = "nextpp"
+root = "Main"
